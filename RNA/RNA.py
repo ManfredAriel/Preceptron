@@ -4,7 +4,7 @@ class RNA(object):
         self.entradas = entradas
         self.salidas = salidas
         self.n_ca
-
+@staticmethod
     def printt(self):
         print("Numero de salidas: {} Numero de salidas: {}".format(1,1))        
     
